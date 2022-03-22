@@ -1,0 +1,3 @@
+/Users/duykhanh/Desktop/CPP Kì 2/AREA OF A POLYGON/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/duykhanh/Desktop/CPP Kì 2/AREA OF A POLYGON/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/duykhanh/Desktop/CPP Kì 2/AREA OF A POLYGON/cmake-build-debug/CMakeFiles/AREA_OF_A_POLYGON.dir
