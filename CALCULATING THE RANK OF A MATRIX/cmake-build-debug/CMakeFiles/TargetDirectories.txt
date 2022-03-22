@@ -1,0 +1,3 @@
+/Users/duykhanh/Desktop/CPP Kì 2/CALCULATING THE RANK OF A MATRIX/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/duykhanh/Desktop/CPP Kì 2/CALCULATING THE RANK OF A MATRIX/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/duykhanh/Desktop/CPP Kì 2/CALCULATING THE RANK OF A MATRIX/cmake-build-debug/CMakeFiles/CALCULATING_THE_RANK_OF_A_MATRIX.dir
