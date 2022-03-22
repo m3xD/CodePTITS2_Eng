@@ -1,0 +1,3 @@
+/Users/duykhanh/Desktop/CPP Kì 2/FIRST PAIR OF PRIMES OF SUM N/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/duykhanh/Desktop/CPP Kì 2/FIRST PAIR OF PRIMES OF SUM N/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/duykhanh/Desktop/CPP Kì 2/FIRST PAIR OF PRIMES OF SUM N/cmake-build-debug/CMakeFiles/FIRST_PAIR_OF_PRIMES_OF_SUM_N.dir
