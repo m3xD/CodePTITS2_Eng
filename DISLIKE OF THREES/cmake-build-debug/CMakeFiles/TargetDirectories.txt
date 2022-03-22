@@ -1,0 +1,3 @@
+/Users/duykhanh/Desktop/CPP Kì 2/DISLIKE OF THREES/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/duykhanh/Desktop/CPP Kì 2/DISLIKE OF THREES/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/duykhanh/Desktop/CPP Kì 2/DISLIKE OF THREES/cmake-build-debug/CMakeFiles/DISLIKE_OF_THREES.dir

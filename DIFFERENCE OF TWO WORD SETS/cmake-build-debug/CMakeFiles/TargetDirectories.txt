@@ -1,0 +1,3 @@
+/Users/duykhanh/Desktop/CPP Kì 2/DIFFERENCE OF TWO WORD SETS/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/duykhanh/Desktop/CPP Kì 2/DIFFERENCE OF TWO WORD SETS/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/duykhanh/Desktop/CPP Kì 2/DIFFERENCE OF TWO WORD SETS/cmake-build-debug/CMakeFiles/DIFFERENCE_OF_TWO_WORD_SETS.dir
